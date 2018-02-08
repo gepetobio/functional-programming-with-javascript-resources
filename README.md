@@ -35,6 +35,7 @@ It's quite important to master these 3 built-in JavaScript functions when you st
 ## Monads
 
 [JavaScript Monads Made Simple](https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8)
+[Douglas Crockford: Monads and Gonads :: YUIConf Evening Keynote (video)](https://www.youtube.com/watch?v=dkZFtimgAcM) - 
 
 ## Transducers
 
