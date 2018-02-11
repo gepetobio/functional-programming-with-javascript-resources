@@ -8,19 +8,19 @@ But before we jump into that, it's important to say that you should have a deep 
 
 If, like me, you started your career with jQuery, chances are that you do need some basic knowledge in JS. For that, I would suggest the following FREE series of books: You Don't Know JS (a.k.a. YDKJS)
 
-* ["Up & Going"](up\%20&\%20going/README.md#you-dont-know-js-up--going)
-* ["Scope & Closures"](scope\%20&\%20closures/README.md#you-dont-know-js-scope--closures)
-* ["this & Object Prototypes"](this\%20&\%20object\%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
-* ["Types & Grammar"](types\%20&\%20grammar/README.md#you-dont-know-js-types--grammar)
-* ["Async & Performance"](async\%20&\%20performance/README.md#you-dont-know-js-async--performance)
-* ["ES6 & Beyond"](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond)
+* [Up & Going](up\%20&\%20going/README.md#you-dont-know-js-up--going)
+* [Scope & Closures](scope\%20&\%20closures/README.md#you-dont-know-js-scope--closures)
+* [this & Object Prototypes](this\%20&\%20object\%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+* [Types & Grammar](types\%20&\%20grammar/README.md#you-dont-know-js-types--grammar)
+* [Async & Performance](async\%20&\%20performance/README.md#you-dont-know-js-async--performance)
+* [ES6 & Beyond](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond)
 
 It doesn't mean you can only learn FP after you read them all (~~well, it kinda does~~), but it will definitely help you on your path to master it. I can't say I read them all until now, but that doesn't mean you should be as reckless as I am ;-)
 
 ## General resources
 
-[Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
-[Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - well, we are talking exactly about Functional Programming in JavaScript ;-)
+* [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - well, we are talking exactly about Functional Programming in JavaScript ;-)
 
 ## Filter, Map and Reduce
 
