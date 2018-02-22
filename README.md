@@ -20,7 +20,9 @@ It doesn't mean you can only learn FP after you read them all (~~well, it kinda 
 ## General resources
 
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* [Javascript Allongé](https://leanpub.com/javascriptallongesix/read) - possibly the earliest book about Functional Programming in Javascript. This is an revised edition including ES6 features.
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - well, we are talking exactly about Functional Programming in JavaScript ;-)
+
 
 ## Filter, Map and Reduce
 
@@ -40,3 +42,9 @@ It's quite important to master these 3 built-in JavaScript functions when you st
 ## Transducers
 
 [Efficient Data Transformations Using Transducers](https://medium.freecodecamp.org/efficient-data-transformations-using-transducers-c779043ba655)
+
+## Articles
+
+This section will be all about articles that talk about functional programming.
+
+[An introduction to functional programming](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
