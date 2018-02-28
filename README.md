@@ -20,8 +20,11 @@ It doesn't mean you can only learn FP after you read them all (~~well, it kinda 
 ## General resources
 
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+
+### Books
 * [Javascript Allongé](https://leanpub.com/javascriptallongesix/read) - possibly the earliest book about Functional Programming in Javascript. This is an revised edition including ES6 features.
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - well, we are talking exactly about Functional Programming in JavaScript ;-)
+* [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) - I came across this book several times. But after Kyle Sympson (the You Don't Know JS author) said he was a fan of this author, then I couldn't really leave it out of this list. I still need to read it though. But one thing at a time...
 
 
 ## Filter, Map and Reduce
