@@ -33,6 +33,10 @@ It's quite important to master these 3 built-in JavaScript functions when you st
 
 [Looking for exercises to practice .reduce, .each, .filter, .map, .call, .apply](https://www.reddit.com/r/learnjavascript/comments/3ekm2o/looking_for_exercises_to_practice_reduce_each/)
 
+I found out about [tech.io](https://tech.io/) by accident. Checked the JavaScript section and found this one:
+
+[Practical introduction to Functional Programming with JS](https://tech.io/playgrounds/2980/practical-introduction-to-functional-programming-with-js/)
+
 ## Functors
 
 [Functors & Categories](https://medium.com/javascript-scene/functors-categories-61e031bac53f)
