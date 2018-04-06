@@ -37,6 +37,12 @@ I found out about [tech.io](https://tech.io/) by accident. Checked the JavaScrip
 
 [Practical introduction to Functional Programming with JS](https://tech.io/playgrounds/2980/practical-introduction-to-functional-programming-with-js/)
 
+### Reduce exercises
+
+I came across this article [How JavaScript’s Reduce method works, when to use it, and some of the cool things it can do](https://medium.freecodecamp.org/reduce-f47a7da511a9) and it's great! Great examples/exercises!!! The article is based on the following (paid!) `egghead.io` course:
+
+[Reduce Data with Javascript Array#reduce](https://egghead.io/courses/reduce-data-with-javascript-array-reduce)
+
 ## Functors
 
 [Functors & Categories](https://medium.com/javascript-scene/functors-categories-61e031bac53f)
